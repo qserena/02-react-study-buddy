@@ -1,7 +1,7 @@
 # React + Vite
 
 '''
-/* Challenge: 
+Challenge: 
 
     The flashcard needs to flip back and forth. Your task is to set this up as follows: 
     
@@ -13,5 +13,5 @@
            
         3. The same pattern should be repeated for any subsequent clicks, so that the user can 
            continue flipping the card back and forth as many times as they want. 
-*/
+
 '''
