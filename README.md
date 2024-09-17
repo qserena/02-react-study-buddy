@@ -3,7 +3,6 @@
 ## Challenge
 
 ```
-
 The flashcard needs to flip back and forth. Your task is to set this up as follows: 
     
         1. When the user clicks on the flashcard, the CSS class "flipped" should 
