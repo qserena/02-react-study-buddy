@@ -18,6 +18,14 @@ The flashcard needs to flip back and forth. Your task is to set this up as follo
            continue flipping the card back and forth as many times as they want. 
 ```
 
+<br/>
+<img src="./study-buddy-1.png" alt="Flashcard not flipped." width="300px"/>
+
+
+<br/>
+<img src="./study-buddy-2.png" alt="Flashcard flipped." width="300px"/>
+
+
 ## Technologies
 - HTML
 - CSS
