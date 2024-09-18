@@ -4,10 +4,9 @@
 <br/>
 <br/>
 <br/>
-This is a challenge in Scrimba's course <a href="https://v2.scrimba.com/react-challenges-c02n">React Challenges</a> 
+This is one of 40 challenges in Scrimba's <a href="https://v2.scrimba.com/react-challenges-c02n">React Challenges</a> 
 <br/>
 
-[https://github.com/qserena/11-tenzies/](https://v2.scrimba.com/react-challenges-c02n)
 <br/>
 
 ## Challenge
