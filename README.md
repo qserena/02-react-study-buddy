@@ -20,7 +20,7 @@ The flashcard needs to flip back and forth. Your task is to set this up as follo
 
 <br/>
 <img src="./study-buddy-1.png" alt="Flashcard not flipped." width="300px"/>
-<em>Flashcard not flipped.</em>
+<em>Flashcard not flipped yet.</em>
 <br/>
 <br/>
 <br/>
