@@ -28,7 +28,6 @@ The flashcard needs to flip back and forth. Your task is to set this up as follo
 <em>Flashcard flipped.</em>
 <br/>
 <br/>
-<br/>
 
 ## Technologies
 - HTML
