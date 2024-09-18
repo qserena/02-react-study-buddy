@@ -36,4 +36,4 @@ The flashcard needs to flip back and forth. Your task is to set this up as follo
 
 ## Live link
 The solution is deployed here:
-[https://tenzies-sv-ts.netlify.app](https://tenzies-sv-ts.netlify.app)
+[https://toms-study-buddy.netlify.app](https://toms-study-buddy.netlify.app)
