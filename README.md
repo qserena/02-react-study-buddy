@@ -26,7 +26,9 @@ The flashcard needs to flip back and forth. Your task is to set this up as follo
 <br/>
 <img src="./study-buddy-2.png" alt="Flashcard flipped." width="300px"/>
 <em>Flashcard flipped.</em>
-
+<br/>
+<br/>
+<br/>
 
 ## Technologies
 - HTML
