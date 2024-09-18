@@ -1,9 +1,6 @@
 # React Study Buddy
 
 ## Background
-<br/>
-<br/>
-<br/>
 This is one of 40 challenges in Scrimba's <a href="https://v2.scrimba.com/react-challenges-c02n">React Challenges</a> 
 <br/>
 
