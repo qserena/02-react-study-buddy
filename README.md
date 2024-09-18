@@ -20,10 +20,12 @@ The flashcard needs to flip back and forth. Your task is to set this up as follo
 
 <br/>
 <img src="./study-buddy-1.png" alt="Flashcard not flipped." width="300px"/>
+Italicized text is the *cat's meow*.
 
 
 <br/>
 <img src="./study-buddy-2.png" alt="Flashcard flipped." width="300px"/>
+Italicized text is the <em>cat's meow</em>.
 
 
 ## Technologies
