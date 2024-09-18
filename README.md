@@ -2,9 +2,6 @@
 
 ## Background
 This is one of 40 challenges in Scrimba's <a href="https://v2.scrimba.com/react-challenges-c02n">React Challenges</a> 
-<br/>
-
-<br/>
 
 ## Challenge
 
@@ -20,3 +17,12 @@ The flashcard needs to flip back and forth. Your task is to set this up as follo
         3. The same pattern should be repeated for any subsequent clicks, so that the user can 
            continue flipping the card back and forth as many times as they want. 
 ```
+
+## Technologies
+- HTML
+- CSS
+- React
+
+## Live link
+The solution is deployed here:
+[https://tenzies-sv-ts.netlify.app](https://tenzies-sv-ts.netlify.app)
